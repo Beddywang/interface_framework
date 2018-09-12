@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/InterfaceFrame-2018.iml" filepath="$PROJECT_DIR$/.idea/InterfaceFrame-2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterfaceFrame2018/InterfaceFrame2018/.idea/InterfaceFrame2018.iml" filepath="$PROJECT_DIR$/../InterfaceFrame2018/InterfaceFrame2018/.idea/InterfaceFrame2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interface_frame_work/.idea/interface_frame_work.iml" filepath="$PROJECT_DIR$/../interface_frame_work/.idea/interface_frame_work.iml" />
+    </modules>
+  </component>
+</project>
